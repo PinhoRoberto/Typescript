@@ -1,0 +1,27 @@
+# Arquivos compilados
+*.js
+*.js.map
+
+# Dependências
+node_modules/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Arquivos do sistema
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Claude Code
+.claude/
+
+# Arquivos de build
+dist/
+build/
