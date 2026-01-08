@@ -25,3 +25,6 @@ Thumbs.db
 # Arquivos de build
 dist/
 build/
+
+tsconfig.json
+.gitignore
